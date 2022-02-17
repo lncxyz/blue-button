@@ -1,7 +1,10 @@
 body{
   margin: 0;
   padding: 0;
-  background: #262626;
+  background-image: url('https://bit.ly/3rDVRpx');
+  background-size: cover;
+  height: 100vh;
+
 }
 
 ul{
